@@ -47,7 +47,7 @@ export default async function Home() {
                 priority
                 quality={100}
                 fill={true}
-                className="max-h-96 object-cover rounded-lg opacity-50 hover:opacity-100 transition-all duratoin-300"
+                className="max-h-96 object-cover rounded-lg opacity-50 hover:opacity-100 transition-all duration-300"
                 sizes="(max-width: 768px) 100vw, (max-width:1200px) 44vw"
               />
             </div>
