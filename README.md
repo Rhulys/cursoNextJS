@@ -8,7 +8,7 @@ Este repositório contém todos os projetos práticos que você irá encontrar a
 
 - **Projeto 1: Projeto Daly Games**
   - **Descrição:** Este projeto inclui a integração de uma API para buscar e exibir jogos na tela, proporcionando uma experiência rica e dinâmica.
-  - **Tecnologias Utilizadas:** React, Next.js, TypeScript e Tailwind CS
+  - **Tecnologias Utilizadas:** React, Next.js, TypeScript e Tailwind CSS
   - **Funcionalidades:** Consumo de API | "use client" e "use server" | Layout Responsivo
 
 - **Projeto 2: Projeto DevMotors com Cosmic CMS**
